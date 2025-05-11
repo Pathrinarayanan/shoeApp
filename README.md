@@ -39,6 +39,24 @@ A clean and modern **Shoe Shopping App UI** built with **Jetpack Compose**, show
 - Floating bottom navigation implementation
 
 ---
+## ⚠️ Mocky API Note
+Mocky links may expire or stop working after some time.
+If the data doesn't load when you clone the project:
+
+Go to https://mocky.io
+
+Paste your data.json (used in the project)
+
+Generate a new API link
+
+Replace the old URL inside ApiService.kt with the new one
+
+```
+interface ApiService {
+    @GET("YOUR_NEW_MOCKY_PATH")
+    suspend fun getData(): ShoeData
+}
+```
 
 ## 🏁 Getting Started
 
