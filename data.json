@@ -1,0 +1,55 @@
+{
+  "brands":[
+    "https://raw.githubusercontent.com/Pathrinarayanan/shoeAppAssets/main/assets/adidas.png",
+    "https://raw.githubusercontent.com/Pathrinarayanan/shoeAppAssets/main/assets/batas.png",
+    "https://raw.githubusercontent.com/Pathrinarayanan/shoeAppAssets/main/assets/nike.png",
+    "https://raw.githubusercontent.com/Pathrinarayanan/shoeAppAssets/main/assets/puma.png",
+    "https://raw.githubusercontent.com/Pathrinarayanan/shoeAppAssets/main/assets/rebook.png",
+    "https://raw.githubusercontent.com/Pathrinarayanan/shoeAppAssets/main/assets/wilson.jpeg"
+  ],
+ "products": [
+  {
+    "title": "Black Shoe",
+    "img": "https://raw.githubusercontent.com/Pathrinarayanan/shoeAppAssets/main/assets/black_shoe.jpg",
+    "subtitle": "Classic everyday wear",
+    "price": 79.99,
+    "rating": 4.5
+  },
+  {
+    "title": "Adidas Runner",
+    "img": "https://raw.githubusercontent.com/Pathrinarayanan/shoeAppAssets/main/assets/shoe5.jpeg",
+    "subtitle": "Adidas lightweight sports shoe",
+    "price": 89.99,
+    "rating": 4.7
+  },
+  {
+    "title": "Nike Air Max",
+    "img": "https://raw.githubusercontent.com/Pathrinarayanan/shoeAppAssets/main/assets/shoe4.jpeg",
+    "subtitle": "Iconic comfort and style",
+    "price": 109.99,
+    "rating": 4.8
+  },
+  {
+    "title": "Puma Flex",
+    "img": "https://raw.githubusercontent.com/Pathrinarayanan/shoeAppAssets/main/assets/shoe3.jpg",
+    "subtitle": "Flexible and breathable",
+    "price": 74.99,
+    "rating": 4.4
+  },
+  {
+    "title": "Reebok ZQuick",
+    "img": "https://raw.githubusercontent.com/Pathrinarayanan/shoeAppAssets/main/assets/shoe1.jpg",
+    "subtitle": "Speed meets comfort",
+    "price": 84.50,
+    "rating": 4.3
+  },
+  {
+    "title": "New Balance 574",
+    "img": "https://raw.githubusercontent.com/Pathrinarayanan/shoeAppAssets/main/assets/shoe2.jpg",
+    "subtitle": "Retro-modern street style",
+    "price": 95.00,
+    "rating": 4.6
+  }
+]
+
+}
